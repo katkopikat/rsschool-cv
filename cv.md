@@ -18,7 +18,7 @@ The main goal to start my career as a Junior Front-End developer. I want to impr
 
 ##### Code examples *(LATEST)*
 * HTMLS& CSS project: https://katkopikat.github.io/interior_store/index.html
-* My page om [Codewars](https://www.codewars.com/users/katkopikat/completed_solutions)
+* My page in [Codewars](https://www.codewars.com/users/katkopikat/completed_solutions)
   
 
         var isAnagram = function(test, original) {
@@ -26,7 +26,8 @@ The main goal to start my career as a Junior Front-End developer. I want to impr
             return newStr = str.toLowerCase().split("").sort().join("");
         }
         return changeStr(test) == changeStr(original) ? true : false;
-    }
+        }
+        
 ## Education: 
 ##### Higher education
 * Graduated with honor **The University of Culture and Arts**,  
