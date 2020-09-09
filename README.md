@@ -1,1 +1,1 @@
-https://katkopikat.github.io/rsschool-cv/cv
+https://katkopikat.github.io/rsschool-cv/
